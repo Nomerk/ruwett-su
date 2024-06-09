@@ -117,7 +117,7 @@
             font-weight: 500;
             opacity: .7;
             padding: 8px 14px;
-            @include custom-transition(all,.3);
+            @include custom-transition(all,.2);
 
             &:first-child {
                 margin-left: 0;
